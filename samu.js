@@ -1,10 +1,10 @@
-//============ NyanBot ============\\
-// + Favor de mantener este codigo
-//   tal y como esta.
+//============ WolfBot  ============\\
+// + Hola amigos como estan
+//espero les guste el bot
 // + Si modificaras, manten los
 //   creditos:
 //   _MankBarBar & Samu & LolHuman_
-//============ Samu330 ============\\
+//============ SiverWolf ============\\
 const { 
   WAConnection,
   MessageType,
